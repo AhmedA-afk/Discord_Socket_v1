@@ -1,0 +1,7 @@
+fastapi
+websockets
+asyncio
+typing
+discord
+dotenv
+requests
